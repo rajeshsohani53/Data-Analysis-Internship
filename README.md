@@ -4,9 +4,9 @@ This repository contains my work from the Data Analysis Internship at **Plexus S
 
 ---
 
-## Python Basic
+## Day 01 — Python Basic: Lists
 
-### List
+**Date:** 14 July 2026
 
 Practice exercises focused on Python list operations — creating, accessing, modifying, and iterating over lists.
 
