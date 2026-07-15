@@ -1,0 +1,19 @@
+Create a list of 10 student names and add "Rohan" to the list.
+Create a list of 8 fruits and add "Kiwi" at the 3rd position.
+Create a list of 10 numbers and remove the number 50 from the list.
+Create a list of 7 colors and remove the last element.
+Create a list of 6 cities and display the 4th city.
+Create a list of 10 programming languages and display the last language.
+Create a list of 8 animals and display the first 5 elements.
+Create a list of 10 subjects and display the last 4 elements.
+Create a list of 6 fruits and display every second element.
+Create a list of 10 numbers and display the list in reverse order.
+Create a list of 10 numbers and arrange them in ascending order.
+Create a list of 7 colors and display them in reverse order.
+Create a list containing duplicate fruit names and find how many times "Apple" appears.
+Create a list of 8 student names and find the position of "Neha".
+Create a list of 6 countries and create another list with the same elements.
+Create a list of 8 numbers and remove all elements from the list.
+Create two lists of 5 numbers each and combine them into a single list.
+Create a list of 10 numbers and display the elements from the 3rd position to the 8th position.
+Create a list of 10 employee names and replace the 5th employee's name with "Amit"
